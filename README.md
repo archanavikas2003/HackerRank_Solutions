@@ -12,6 +12,7 @@ This repository contains my solutions to [HackerRank](https://www.hackerrank.com
 |---|---|---|
 | Lists | Python (Basic Data Types) | [list.py](list.py) |
 | Tuples | Python (Basic Data Types) | [tuple.py](tuple.py) |
+| Compress the String! | Python (Itertools) | [groupby.py](groupby.py) |
 
 ## Language
 
