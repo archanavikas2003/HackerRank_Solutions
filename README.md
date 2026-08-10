@@ -11,6 +11,7 @@ This repository contains my solutions to [HackerRank](https://www.hackerrank.com
 | Problem | Domain | Solution |
 |---|---|---|
 | Lists | Python (Basic Data Types) | [list.py](list.py) |
+| Tuples | Python (Basic Data Types) | [tuple.py](tuple.py) |
 
 ## Language
 
